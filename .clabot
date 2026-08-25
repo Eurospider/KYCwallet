@@ -1,5 +1,7 @@
 {
+  "contact": "legal@eurospider.com",
   "contributors": ["peterschauble", "andreasbaumanneit"],
-  "message": "Thanks for your contribution! We require contributors to sign our Contributor License Agreement before we can merge this. Please see CONTRIBUTING.md or contact @YourGithubUsername to get set up.",
+  "cladocument": "https://github.com/Eurospider/KYCwallet/blob/main/CLA.md",
+  "message": "Thanks for your contribution! We require contributors to sign our Contributor License Agreement before we can merge this. Please see CONTRIBUTING.md or contact @peterschauble or legal@eurospider.com to get set up.",
   "label": "cla-signed"
 }
