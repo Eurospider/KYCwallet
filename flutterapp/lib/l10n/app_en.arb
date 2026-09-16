@@ -1,0 +1,21 @@
+{
+  "helloWorld": "Hello World!",
+  "newWallet": "new wallet",
+  "walletName": "wallet name",
+  "password": "password",
+  "initUserTitle": "New wallet created.",
+  "personSubmitted": "New personal details submitted.",
+  "personCheck": "Risk check",
+  "transaction": "Transaction",
+  "lastTransactions": "Last transactions",
+  "allTransactions": "All transactions",
+  "more": "more...",
+  "gwgCheck": "GWG Check",
+  "firstName": "first name",
+  "lastName": "last name",
+  "datesOfBirth": "date of birth",
+  "citizenships": "citizenship",
+  "countriesOfResidence": "tax residence (country)",
+  "email": "e-mail",
+  "telephone": "telephone"
+}
