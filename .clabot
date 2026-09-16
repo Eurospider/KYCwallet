@@ -1,6 +1,6 @@
 {
   "contact": "legal@eurospider.com",
-  "contributors": ["peterschauble", "andreasbaumanneit"],
+  "contributors": ["peterschauble", "andreasbaumanneit", "marco4113"],
   "cladocument": "https://github.com/Eurospider/KYCwallet/blob/main/CLA.md",
   "message": "Thanks for your contribution! We require contributors to sign our Contributor License Agreement before we can merge this. Please see CONTRIBUTING.md or contact @peterschauble or legal@eurospider.com to get set up.",
   "label": "cla-signed"
